@@ -4,6 +4,7 @@ This repository contains the SQL code used to create, manipulate and retrieve da
 14 objects and correspondingly 14 object tables are created. 2 of those tables are nested tables.
 
 **JOB_OBJECT** – Stores the id and title of jobs.
+
 **LOGISTIC_EMPLOYEE_OBJECT** – stores the details of employees like first and last names, dob, employment date and references the job object for the employee’s job.
 **ADDRESS_OBJECT** – stores different addresses associated with the warehouse with attributes such as country name, region name, city name, pin code etc.
 **ITEMS_OBJECT** – stores all the items handled by the company and has attributes name, weight and id.
