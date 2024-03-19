@@ -1,5 +1,5 @@
 # Logistic-Company-Database
-This repository contains the SQL code used to create, manipulate and retrieve data for a hypothetical Logistic company using PL/SQL
+This repository contains the code used to create, manipulate and retrieve data for a hypothetical Logistic company using PL/SQL
 
 14 objects and correspondingly 14 object tables are created. 2 of those tables are nested tables.
 
